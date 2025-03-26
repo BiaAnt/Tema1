@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+Ee2qFqOiI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizator\\Desktop\\TA\\tap25-tema1-codebase-master\\ConsoleProject\\ConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

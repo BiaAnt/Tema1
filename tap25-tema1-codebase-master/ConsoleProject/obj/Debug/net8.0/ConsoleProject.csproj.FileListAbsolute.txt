@@ -1,0 +1,17 @@
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\ConsoleProject.exe
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\ConsoleProject.deps.json
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\ConsoleProject.runtimeconfig.json
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\ConsoleProject.dll
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\ConsoleProject.pdb
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfo.cs
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleP.1CDE03C2.Up2Date
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.dll
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\refint\ConsoleProject.dll
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.pdb
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ConsoleProject.genruntimeconfig.cache
+C:\Users\Utilizator\Desktop\TA\tap25-tema1-codebase-master\ConsoleProject\obj\Debug\net8.0\ref\ConsoleProject.dll
